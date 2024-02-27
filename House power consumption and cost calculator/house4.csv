@@ -1,0 +1,23 @@
+A6|6|Lotharstrasse|65d|47057|Duisburg Neudorf
+Household|1|true|1|100|0.3|ENBW
+Mobile|E-Bike|100.000000|daily|500.000000
+Solar|balcony power plant|2023|600.000000
+Household|2|true|5|200|0.3|Yello Strom
+Solar|balcony power plant|2023|600.000000
+Immobile|Router|24.000000|daily|10.000000|0.000000
+Immobile|Office PC|8.500000|Monday to Friday|200.000000|0.500000
+Immobile|Washing Machine|2.000000|Weekly|2000.000000|0.000000
+Household|3|false|2|100|0.4|Stadtwerke
+Solar|balcony power plant|2022|0.800000
+Mobile|E-SUV|100.000000|Monday to Friday|18000.000000
+Immobile|Dish Washer|3.500000|daily|250.000000|0.000000
+Immobile|LED TV|2.000000|Saturday and Sunday|70.000000|0.500000
+Household|4|true|2|50|0.5|RWE
+Solar|balcony power plant|2022|0.800000
+Mobile|E-SUV|100.000000|Monday to Friday|18000.000000
+Immobile|Dish Washer|3.500000|daily|250.000000|0.000000
+Immobile|LED TV|2.000000|Saturday and Sunday|70.000000|0.500000
+Solar|balcony power plant|2023|600.000000
+Immobile|Washing Machine|2.000000|Weekly|2000.000000|0.000000
+Immobile|Router|24.000000|daily|10.000000|0.000000
+Immobile|Office PC|8.500000|Monday to Friday|200.000000|0.500000
